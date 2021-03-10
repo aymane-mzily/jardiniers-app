@@ -1,6 +1,6 @@
-# flutter_application_1
+# Jardiniers App
 
-A new Flutter project.
+A new Flutter project (For Test Purposes).
 
 ## Getting Started
 
